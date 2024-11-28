@@ -101,7 +101,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="z5138926638648_29b42fef603cc50858a43de6990d1c82.png">
+   <img src="z6076274520225_3084a348f1bd185ecc64184832f08e21.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Mỹ Nhàn</h2>
       <ul>
