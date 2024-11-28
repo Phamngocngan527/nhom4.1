@@ -71,7 +71,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.png">
+   <img src="z5138926638648_29b42fef603cc50858a43de6990d1c82.png">
   </tr>
   <tr>
     <td colspan="2">
@@ -101,7 +101,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.png">
+   <img src="z5138926638648_29b42fef603cc50858a43de6990d1c82.png">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Mỹ Nhàn</h2>
       <ul>
